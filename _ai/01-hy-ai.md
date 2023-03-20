@@ -77,8 +77,8 @@ layout: single
 * [IMDB 비교][9-7]
 * [뉴스 기사 분류][9-8]
 
-[1-1]: https://colab.research.google.com/drive/1KQimvQusjg_bHG2U86w4OyIysgRMDLbL
-[1-2]: https://colab.research.google.com/drive/1PVbBsYAgs6_JSKZTHRIw3BVIt6oY2pn6
+[1-1]: https://colab.research.google.com/drive/12wrGrUi3yWJjU4SchM1ORrzf5kPhsObx
+[1-2]: https://colab.research.google.com/drive/12v08XmeEyr_QmFYLYXQGPcgpE55CKTDO
 [2-1]: https://colab.research.google.com/drive/1Pbcg3-rcOp0bA72yN871scfeGeDVPdFq
 [2-2]: https://colab.research.google.com/drive/1KOzIYsnLLWymCTycAr4KrEbfcV7ulfOW
 [2-3]: https://colab.research.google.com/drive/1KOINBbzMuO4i9vUAflXjlZ_rK7duUUBI
